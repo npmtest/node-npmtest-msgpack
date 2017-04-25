@@ -1,6 +1,6 @@
 # npmtest-msgpack
 
-#### test coverage for  [msgpack (v1.0.2)](https://github.com/msgpack/msgpack-node)  [![npm package](https://img.shields.io/npm/v/npmtest-msgpack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-msgpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-msgpack.svg)](https://travis-ci.org/npmtest/node-npmtest-msgpack)
+#### basic test coverage for  [msgpack (v1.0.2)](https://github.com/msgpack/msgpack-node)  [![npm package](https://img.shields.io/npm/v/npmtest-msgpack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-msgpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-msgpack.svg)](https://travis-ci.org/npmtest/node-npmtest-msgpack)
 
 #### A space-efficient object serialization library for node.js
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-msgpack/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-msgpack/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-msgpack/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-msgpack/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-msgpack/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-msgpack/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-msgpack/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-msgpack/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-msgpack/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-msgpack/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-msgpack/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-msgpack/build/coverage.html/index.html)
 
